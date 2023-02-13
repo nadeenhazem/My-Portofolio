@@ -1,0 +1,10 @@
+.background-navbar{
+    color:white; 
+}
+#navbar-icons{
+    font-size: 200%;
+    margin-right:  20%;    
+}
+#navbar-icons:hover{
+   color: rgb(101, 113, 178) !important; 
+}
