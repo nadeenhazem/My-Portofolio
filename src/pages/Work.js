@@ -45,12 +45,12 @@ function Work(props) {
                             <h1 style={{color:mainColor ,marginBottom:'2%',marginTop:'10%' }}>
                                 <span style={{color:'#8771b7'}}>Recent</span> Work</h1>
                             <div className="row g-0">
-                                <CardDesign img='https://i.ibb.co/Bf6SLGV/2.png' Header='Care Hospital'
-                                Link='https://drive.google.com/drive/folders/1C8CCH8oTNhizIXaa52Hbmp1hkogRWbzn?usp=sharing' 
-                                body='This Website For easy Booking Appointments with a Doctor
-                                ,  Choosing a Good Doctor and Follow-up with this Doctor
+                                
+                            <CardDesign img='https://i.ibb.co/MgyK4qv/mainpage.jpg' Header='Education'
+                                Link='https://e-learning-dd3de.firebaseapp.com/' 
+                                body='This Website is For learning in different fields such as
+                                programming, languages, and more fields
                                 ' />
-
 
 
                                 <CardDesign img='https://i.ibb.co/cDDrf7j/ToDoList.png' Header='TODO List' 
@@ -65,7 +65,11 @@ function Work(props) {
                                 <CardDesign img='https://i.ibb.co/zbSgmXn/Home.png' Header='Furniture' 
                                 Link='https://sama-furniture.web.app/'body='This Website to display Furniture or buy it and can added to the cart to buy later or add to favorit'/>
 
-
+<CardDesign img='https://i.ibb.co/Bf6SLGV/2.png' Header='Care Hospital'
+                                Link='https://drive.google.com/drive/folders/1C8CCH8oTNhizIXaa52Hbmp1hkogRWbzn?usp=sharing' 
+                                body='This Website For easy Booking Appointments with a Doctor
+                                ,  Choosing a Good Doctor and Follow-up with this Doctor
+                                ' />
 
 
 
